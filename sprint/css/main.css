@@ -1,0 +1,85 @@
+
+
+.header {
+  background-color: #162252;
+  height: 42.5em;
+  margin: -20px;
+  color: white;
+}
+
+.header-center {
+  width: 80%;
+  margin: 0 auto;
+  text-align: center;
+  padding-top: 5em;
+}
+
+.header-center h1 {
+  padding-top: 2em;
+}
+
+.header-center button {
+  margin-top: 3em;
+}
+
+.image {
+  background-color: red;
+  height: 25em;
+  width: 40em;
+  margin: 9em auto;
+
+}
+
+.image-gallery {
+  height: 42.5em;
+  padding-top: 24em;
+}
+
+.gallery-container {
+  width: 80%;
+  margin: 0 auto;
+  display: flex;
+  padding-top: 25em;
+}
+
+.gallery {
+  height: 10em;
+  width: 10em;
+  outline: 1px solid red;
+  flex-grow: 1;
+}
+
+.banner {
+  height: 25em;
+  outline: 1px solid red;
+  margin-top: 8em;
+  background-color: #F2F2F2;
+}
+
+.testimonial {
+  height: 25em;
+  outline: 1px solid red;
+}
+
+.footer {
+  height: 35em;
+}
+
+.footer-background {
+  height: 25em;
+  text-align: center;
+  background-color: #162252;
+  color: white;
+}
+
+.footer-emblem {
+  text-align: center;
+}
+
+button {
+  background-color: green;
+  height: 3em;
+  width: 11em;
+  border-radius: 1em;
+  color: white;
+}
